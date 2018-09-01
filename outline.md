@@ -1,0 +1,11 @@
+- discuss client-side templating
+  - makes generating HTML/DOM in JavaScript much easier to build and maintain
+  - declare templates with placeholders for data and client-side templating libraries will swap out the placeholders with data
+  - has security benefits, as opposed to generating HTML strings yourself
+  - client-side templating libraries include Handlebars, Mustache, Dust, Underscore
+- Demo
+  - Rendering a single object (Github profile example)
+    - discuss template tag
+  - Rendering a list of things (Github repos example)
+    - if statement example
+  - Creating a custom helper
